@@ -16,3 +16,4 @@
 .vscode/assignment-log.jsonl
 __MACOSX
 data/
+*.parquet
