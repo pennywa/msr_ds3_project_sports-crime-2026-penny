@@ -15,4 +15,4 @@
 *.RDataTmp
 .vscode/assignment-log.jsonl
 __MACOSX
-data/raw/
+data/
